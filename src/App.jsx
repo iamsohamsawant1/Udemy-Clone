@@ -2,10 +2,10 @@ function App() {
 
   return (
     <>
-     <h1 className="text-3xl text-red-700 font-bold underline">
-      Hello world!
-    </h1>
-    <p>React Application</p>
+    <nav className="py-2 bg-slate-200">
+    <h1 className="text-red-500 text-3xl font-bold text-center">Modern Learn</h1>
+    <p className="text-center font-bold">React Application</p>
+    </nav>
     </>
   )
 }
